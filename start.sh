@@ -1,7 +1,5 @@
 #!/bin/bash
 
-echo "Starting..."
+echo "=== Environment:"
 
-cat main.py
-
-echo "Finishing..."
+env
