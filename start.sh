@@ -1,5 +1,5 @@
 #!/bin/bash
 
-echo "=== Environment:"
+echo "=== Environment ==="
 
 env
